@@ -147,7 +147,7 @@
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
 
-](https://www.linkedin.com/in/shaipshi-verya-1b918a162/)
+](https://www.linkedin.com/in/shaipshi-1b918a162/)
 [
 
 ![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)
